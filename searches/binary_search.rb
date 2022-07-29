@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Searches through a list for a value in O(log(n)) time.
 # The list must be sorted.
 def binary_search(array, key)
@@ -13,18 +15,27 @@ def binary_search(array, key)
       front = middle + 1
     end
   end
-  
+
   nil
 end
 
-puts "Enter a sorted space-separated list:"
-arr = gets.chomp.split(' ').map(&:to_i)
+puts 'Enter a sorted space-separated list:'
+arr = gets.chomp.split.map(&:to_i)
 
-puts "Enter the value to be searched:"
+puts 'Enter the value to be searched:'
 value = gets.chomp.to_i
 
-puts if binary_search(arr, value) != nil
-  "Found at index #{binary_search(arr, value)}"
+result = binary_search(arr, value)
+
+if result.nil?
+  puts 'Not found'
 else
-  "Not found"
+  puts "Found at index #{result}"
 end
+
+# Or
+# if (result = binary_search(arr, value)).nil?
+#   puts 'Not found'
+# else
+#   puts "Found at index #{result}"
+# end
