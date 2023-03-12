@@ -52,6 +52,8 @@
     * [Two Sum](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/arrays/two_sum.rb)
     * [Two Sum Ii](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/arrays/two_sum_ii.rb)
   * Binary Trees
+    * [Bst](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/binary_trees/bst.rb)
+    * [Bst Test](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/binary_trees/bst_test.rb)
     * [Inorder Traversal](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/binary_trees/inorder_traversal.rb)
     * [Invert](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/binary_trees/invert.rb)
     * [Postorder Traversal](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/binary_trees/postorder_traversal.rb)
@@ -69,6 +71,9 @@
     * [Richest Customer Wealth](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/hash_table/richest_customer_wealth.rb)
     * [Two Sum](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/hash_table/two_sum.rb)
     * [Uncommon Words](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/hash_table/uncommon_words.rb)
+  * Heaps
+    * [Max Heap](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/heaps/max_heap.rb)
+    * [Max Heap Test](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/heaps/max_heap_test.rb)
   * Linked Lists
     * [Circular Linked List](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/linked_lists/circular_linked_list.rb)
     * [Doubly Linked List](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/linked_lists/doubly_linked_list.rb)
@@ -138,24 +143,34 @@
   * [Number Of Days](https://github.com/TheAlgorithms/Ruby/blob/master/other/number_of_days.rb)
 
 ## Project Euler
-  * Problem 1
-    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_1/sol1.rb)
-  * Problem 2
-    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_2/sol1.rb)
-  * Problem 20
-    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_20/sol1.rb)
-  * Problem 21
-    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_21/sol1.rb)
-  * Problem 22
-    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_22/sol1.rb)
-  * Problem 3
-    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_3/sol1.rb)
-    * [Sol2](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_3/sol2.rb)
-  * Problem 4
-    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_4/sol1.rb)
-    * [Sol2](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_4/sol2.rb)
-  * Problem 5
-    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_5/sol1.rb)
+  * Problem 001
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_001/sol1.rb)
+  * Problem 002
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_002/sol1.rb)
+  * Problem 003
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_003/sol1.rb)
+    * [Sol2](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_003/sol2.rb)
+  * Problem 004
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_004/sol1.rb)
+    * [Sol2](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_004/sol2.rb)
+  * Problem 005
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_005/sol1.rb)
+  * Problem 006
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_006/sol1.rb)
+  * Problem 007
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_007/sol1.rb)
+  * Problem 010
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_010/sol1.rb)
+  * Problem 014
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_014/sol1.rb)
+  * Problem 020
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_020/sol1.rb)
+  * Problem 021
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_021/sol1.rb)
+  * Problem 022
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_022/sol1.rb)
+  * Problem 025
+    * [Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_025/sol1.rb)
 
 ## Searches
   * [Binary Search](https://github.com/TheAlgorithms/Ruby/blob/master/searches/binary_search.rb)
@@ -172,6 +187,8 @@
 ## Sorting
   * [Bead Sort](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bead_sort.rb)
   * [Bead Sort Test](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bead_sort_test.rb)
+  * [Binary Insertion Sort](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/binary_insertion_sort.rb)
+  * [Binary Insertion Sort Test](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/binary_insertion_sort_test.rb)
   * [Bogo Sort](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bogo_sort.rb)
   * [Bogo Sort Test](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bogo_sort_test.rb)
   * [Bubble Sort](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
@@ -182,6 +199,8 @@
   * [Cocktail Sort Test](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/cocktail_sort_test.rb)
   * [Comb Sort](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/comb_sort.rb)
   * [Comb Sort Test](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/comb_sort_test.rb)
+  * [Counting Sort](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/counting_sort.rb)
+  * [Counting Sort Test](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/counting_sort_test.rb)
   * [Heap Sort](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/heap_sort.rb)
   * [Heap Sort Test](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/heap_sort_test.rb)
   * [Insertion Sort](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/insertion_sort.rb)
@@ -200,3 +219,7 @@
   * [Shell Sort Test](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/shell_sort_test.rb)
   * [Sort Color](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/sort_color.rb)
   * [Sort Tests](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/sort_tests.rb)
+
+## Strings
+  * [Max K Most Frequent Words](https://github.com/TheAlgorithms/Ruby/blob/master/strings/max_k_most_frequent_words.rb)
+  * [Max K Most Frequent Words Test](https://github.com/TheAlgorithms/Ruby/blob/master/strings/max_k_most_frequent_words_test.rb)
